@@ -17,3 +17,7 @@ public void setTitle(String title)
 {
 this.title=title;
 }
+ public void setauthor(String author)
+{
+this.author=author;
+}
