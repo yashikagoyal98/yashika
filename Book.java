@@ -5,11 +5,15 @@ private String title;
 private String author;
 private float price;
 }
- public void setBookid(int bookId)
+ public void setBookid(int bookid)
 {
-this.bookId=bookId;
+this.bookid=bookid;
 }
-public int getBookId()
+public int getBookid()
 {
-return bookId;
+return bookid;
+}
+public void setTitle(String title)
+{
+this.title-title;
 }
