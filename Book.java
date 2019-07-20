@@ -21,3 +21,6 @@ this.title=title;
 {
 this.author=author;
 }
+public void test()
+{
+}
